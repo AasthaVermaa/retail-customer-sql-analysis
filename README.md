@@ -89,11 +89,6 @@ The dataset contains total sales of approximately:
 
 The average is based on transaction line amounts rather than distinct transactions because transaction IDs can occur across multiple line items.
 
-## Results Preview
-
-### Overall Sales Performance
-
-![Overall Sales Performance](Results/Screenshots/overall_sales.png)
 ---
 
 ### 2. Sales by Store Type
@@ -217,6 +212,20 @@ For example, Books generated approximately **5.30M** in e-Shop sales.
 This allowed me to look beyond overall category performance and see how categories behaved across individual sales channels.
 
 ---
+## Results Preview
+
+### Overall Sales Performance
+
+![Overall Sales Performance](Results/Screenshots/overall_sales.png)
+
+### Sales by Product Category
+
+![Sales by Product Category](Results/Screenshots/category_sales.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](Results/Screenshots/segment_wise_sales.png)
+
 
 ## SQL Techniques Used
 
