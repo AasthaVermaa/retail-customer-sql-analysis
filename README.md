@@ -93,7 +93,7 @@ The average is based on transaction line amounts rather than distinct transactio
 
 ### Overall Sales Performance
 
-![Overall Sales Performance](results/screenshots/sales.png)
+![Overall Sales Performance](Results/Screenshots/overall_sales.png)
 ---
 
 ### 2. Sales by Store Type
