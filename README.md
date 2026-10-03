@@ -89,6 +89,11 @@ The dataset contains total sales of approximately:
 
 The average is based on transaction line amounts rather than distinct transactions because transaction IDs can occur across multiple line items.
 
+## Results Preview
+
+### Overall Sales Performance
+
+![Overall Sales Performance](results/screenshots/sales.png)
 ---
 
 ### 2. Sales by Store Type
